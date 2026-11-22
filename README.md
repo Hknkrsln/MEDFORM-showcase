@@ -6,7 +6,7 @@
 > Geliştirici · Developer: **Mehmet Hakan Karaaslan**
 > Kaynak kod kapalıdır; bu depo yalnızca tanıtım amaçlıdır. · *Source code is closed; this repository is for showcase purposes only.*
 
-![Ana Pano / Dashboard](images/01-pano.jpg)
+![Ana Pano / Dashboard](images/01-pano.webp)
 
 ---
 
@@ -59,11 +59,11 @@ MEDFORM is a modular web application I designed and built with Python/Flask, use
 
 | Acil Durum Kodları · Emergency Codes | Santral Çağrı Kayıtları · Call Records |
 |---|---|
-| ![Acil Durum Kodları](images/02-acil-kodlar.jpg) | ![Santral](images/03-santral.jpg) |
+| ![Acil Durum Kodları](images/02-acil-kodlar.webp) | ![Santral](images/03-santral.webp) |
 
 | Güvenlik Devriye · Security Patrol |
 |---|
-| ![Güvenlik Devriye](images/05-guvenlik.jpg) |
+| ![Güvenlik Devriye](images/05-guvenlik.webp) |
 
 ---
 
